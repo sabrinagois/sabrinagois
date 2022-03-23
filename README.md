@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabrinagois
 - 🌱 I’m currently learning Data Science & Machine Learning
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on Data Science projects with a focus on social impact
 
 <!---
 sabrinagois/sabrinagois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
